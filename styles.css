@@ -1,0 +1,50 @@
+* {
+    font-family: Garamond, serif;
+    font-size: 16px;
+}
+
+.main {
+    background-color: rgb(230,204,255);
+}
+
+.main-headline {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 3rem;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, 
+a:visited, 
+a:active {
+    color: black;
+}
+
+a:hover {
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.foot-image {
+    height: 428px;
+    width: auto;
+}
+
+section {
+    text-align: center;
+}
+
+section > ul,
+section > ol
+ {
+    display: inline-block;
+  text-align: left;
+}
+
+h2 {
+    margin-top: 40px;
+}
